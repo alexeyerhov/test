@@ -33,3 +33,7 @@
 ![Photo of philosopher](actor.jpg)
 
 ## Конфликты в Git и как они выглядят
+
+![image1](firstconflict.png)
+![image2](secondconflict.png)
+![image3](thirdconflict.png)
